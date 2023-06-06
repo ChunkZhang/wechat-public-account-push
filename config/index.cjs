@@ -33,6 +33,12 @@ const USER_CONFIG = {
         {
           type: '节日', name: '相识纪念日', year: '2022', date: '09-13',
         },
+        {
+          type: '生日', name: '小姐姐的生日', year: '1993', date: '09-01',
+        },
+        {
+          type: '生日', name: '爸爸的生日', year: '1993', date: '09-01',
+        },
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
