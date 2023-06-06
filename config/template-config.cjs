@@ -30,9 +30,11 @@ const TEMPLATE_CONFIG = [
       
       ---
       
-      {{moment_copyrighting.DATA}}
+      {{one_talk.DATA}}
       
-      {{poetry_title.DATA}} {{poetry_content.DATA}}
+      {{poetry_title.DATA}} 
+      
+      {{poetry_content.DATA}}
     `
   },
   {
